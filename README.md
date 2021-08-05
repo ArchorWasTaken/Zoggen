@@ -1,0 +1,2 @@
+# Zoggen
+Discordbot
